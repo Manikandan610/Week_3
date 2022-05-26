@@ -6,8 +6,13 @@
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="style.css">
+
+<script src="cards.json"></script>
 <style>
 
 </style>
@@ -46,30 +51,62 @@
             </div>
        </header>
        <div class="content">
-            <div class="card1">
-                <p class="p">This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager.</p>
+           <script>
+               $(document).ready(function(e){
+    jsonObject.products.forEach((i)=>loadProducts(i));
+
+});
+
+function loadProducts(data){
+    '<div class="card2">'+
+    '<div class="rect1"><img src="'+data.image +'" class="rect_img"></div>'+
+    '<div class="subrect"><p class="subrect_p1">'+ data.title +'</p>'+
+    '<span>'+ data.description +'</span>'+
+    '<p class="subrect_p2">'+ data.content +'</p>'+
+'</div>';
+//console.log(data);
+//document.getElementById('content').append
+}
+           </script>
+            <!--div class="card1">
+                <p class="card1_p">This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager.</p>
                 <button type="button" class="btn btn-primary btn-sm" id="btn">View Details</button>
             </div>
             <div class="card2">
-                <div class="rect1"><img src="images/c1.png" class="rect_img"></div>
-                <p> GRN approval</p>
-                <!-- <span>WF_PO_PROCESSING_STD2</span> -->
+                <div class="rect1"><img src="images/dp2.png" class="rect_img"></div>
+                <div class="subrect">
+                    <p class="subrect_p1"> MANIKANDAN J N</p>
+                    <span>Software Developer Intern</span>
+                    <p class="subrect_p2">Leave application for admin approval</p>
+                </div>
             </div>
             <div class="card2">
                 <div class="rect1"><img src="images/c2.png" class="rect_img"></div>
-                <p> ASN approval</p>
+                <div class="subrect">
+                    <p class="subrect_p1"> ASN approval</p>
+                    <span>WF_PO_PROCESSING_STD2</span>
+                    <p class="subrect_p2">Leave application for admin approval</p>
+                </div>
             </div>
             <div class="card2">
                 <div class="rect1"><img src="images/c3.png" class="rect_img1"></div>
-                <p> Quotation approval</p>
+                <div class="subrect">
+                    <p class="subrect_p1"> Quotation approval</p>
+                    <span>WF_PO_PROCESSING_STD2</span>
+                    <p class="subrect_p2">Leave application for admin approval</p>
+                </div>
             </div>
             <div class="card2">
                 <div class="rect1"><img src="images/c1.png" class="rect_img"></div>
-                <p> Purchase order...</p>
-            </div>
+                <div class="subrect">
+                    <p class="subrect_p1"> Purchase order...</p>
+                    <span>WF_PO_PROCESSING_STD2</span>
+                    <p class="subrect_p2">Leave application for admin approval</p>
+                </div>
+            </div-->
        </div>
     </div>
 </div>
-     
+     <script src="main.js"></script>
 </body>
 </html> 

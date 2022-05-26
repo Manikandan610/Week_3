@@ -141,7 +141,7 @@ input.nosubmit {
 }
 .content{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: repeat(4,2fr);
     grid-template-rows: 25% 25% 25% 25%;
     grid-row-gap: 10px;
 }
@@ -161,7 +161,7 @@ input.nosubmit {
     /* border-color: #2B78D4;
     border-style:solid;
     border-width: 1.6px; */
-    display: flex;
+    display: inline-flex;
     margin-top: 30px;
     height: 130px;
     width: 290px;
@@ -175,7 +175,7 @@ input.nosubmit {
     border-style:solid;
     border-width: 2px;
 }
-.p{
+.card1_p{
     font-family: 'Montserrat';
     margin: 15px 15px;
     font-size: 12px;
@@ -194,30 +194,54 @@ input.nosubmit {
     margin: 0px 15px;
 }
 .rect1{
-    margin: 10px 25px;
+    margin: 10px 10px 10px 15px;
     height: 40px;
     width: 40px;
-    background-color: #D1DCF4;
-    border-radius: 10px;  
+    /* background-color: #D1DCF4;
+    border-radius: 10px;   */
 }
 .rect1 .rect_img{
-    margin: 5px 6px;
+    /* margin: 2px 2px; */
     justify-content: center;
+    border-radius: 150px;
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #002653;
 }
 .rect1 .rect_img1{
     margin: 5px 10px;
     justify-content: center;
 }
-.card2 p{
+.card2 .subrect_p1{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 900;
     font-size: 18px;
     line-height: 27px;
     color:  #002653;
-    margin-top: 10px;
+    margin: 8px 10px 0 0;
 }
-
+.subrect{
+    margin-left: 10px;
+}
+.subrect span{
+    Font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19.5px;
+    color: #5C83B1;
+}
+.subrect .subrect_p2{
+    Font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #5C83B1;
+    margin-top: 15px;
+}
 
 
 

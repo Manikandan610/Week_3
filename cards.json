@@ -1,0 +1,16 @@
+var jsonObject = {
+    "products":[
+        {
+            "image": "images/c2.png",
+            "title": "GRN approval",
+            "description": "WF_PO_PROCESSING_STD2",
+            "content": "Leave application for admin approval"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "GRN approval",
+            "description": "WF_PO_PROCESSING_STD2",
+            "content": "Leave application for admin approval"
+        },
+    ]
+}
