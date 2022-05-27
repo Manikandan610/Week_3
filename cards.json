@@ -1,16 +1,76 @@
 var jsonObject = {
     "products":[
         {
-            "image": "images/c2.png",
-            "title": "GRN approval",
-            "description": "WF_PO_PROCESSING_STD2",
-            "content": "Leave application for admin approval"
+            "image": "images/dp2.png",
+            "title": "MANIKANDAN J N",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
         },
         {
             "image": "images/c2.png",
-            "title": "GRN approval",
-            "description": "WF_PO_PROCESSING_STD2",
-            "content": "Leave application for admin approval"
+            "title": "KAMESHWARAN",
+            "description": "Software Developer Intern",
+            "content": "I'm Completed B.E(Civil Engineering)"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "CHRISTOPHER",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "MAHA LAKSHMI",
+            "description": "Software Developer Intern",
+            "content": "I'm Completed B.E(Computer Science Engineering)"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "SIVA KUMAR M N",
+            "description": "Software Developer",
+            "content": "Now working in Fibonalabs as FrontEnd ReactJS Developer"
+        },
+        {
+            "image": "images/dp2.png",
+            "title": "MANIKANDAN J N",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "MAHA LAKSHMI",
+            "description": "Software Developer Intern",
+            "content": "I'm Completed B.E(Computer Science Engineering)"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "ADITHYA MAURYA",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "CHRISTOPHER",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "MAHA LAKSHMI",
+            "description": "Software Developer Intern",
+            "content": "I'm Completed B.E(Computer Science Engineering)"
+        },
+        {
+            "image": "images/dp2.png",
+            "title": "MANIKANDAN J N",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "SAVITHA THOMAS",
+            "description": "Software Developer Intern",
+            "content": "I'm Completed B.E(Computer Science Engineering)"
         },
     ]
 }
