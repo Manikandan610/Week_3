@@ -10,7 +10,7 @@ var jsonObject = {
             "image": "images/c2.png",
             "title": "KAMESHWARAN",
             "description": "Software Developer Intern",
-            "content": "I'm Completed B.E(Civil Engineering)"
+            "content": "I Completed B.E(Civil Engineering)"
         },
         {
             "image": "images/c2.png",
@@ -22,7 +22,7 @@ var jsonObject = {
             "image": "images/c2.png",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "I'm Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)"
         },
         {
             "image": "images/c2.png",
@@ -40,7 +40,7 @@ var jsonObject = {
             "image": "images/c2.png",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "I'm Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)"
         },
         {
             "image": "images/c2.png",
@@ -58,7 +58,7 @@ var jsonObject = {
             "image": "images/c2.png",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "I'm Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)"
         },
         {
             "image": "images/dp2.png",
@@ -70,7 +70,31 @@ var jsonObject = {
             "image": "images/c2.png",
             "title": "SAVITHA THOMAS",
             "description": "Software Developer Intern",
-            "content": "I'm Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "SIVA KUMAR M N",
+            "description": "Software Developer",
+            "content": "Now working in Fibonalabs as FrontEnd ReactJS Developer"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "MAHA LAKSHMI",
+            "description": "Software Developer Intern",
+            "content": "I Completed B.E(Computer Science Engineering)"
+        },
+        {
+            "image": "images/c2.png",
+            "title": "KAVIYARASU",
+            "description": "System Admin",
+            "content": "Working in Cloud Platforms."
+        },
+        {
+            "image": "images/dp2.png",
+            "title": "MANIKANDAN J N",
+            "description": "Software Developer Intern",
+            "content": "Doing Software Developer Intern in Fibonalobas"
         },
     ]
 }
