@@ -65,6 +65,7 @@ var jsonObject = {
             "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "9",
             "image": "images/c2.png",
             "title": "CHRISTOPHER",
             "description": "Software Developer Intern",
@@ -72,46 +73,60 @@ var jsonObject = {
             "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "10",
             "image": "images/c2.png",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "I Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "11",
             "image": "images/dp2.png",
             "title": "MANIKANDAN J N",
             "description": "Software Developer Intern",
-            "content": "Doing Software Developer Intern in Fibonalobas"
+            "content": "Doing Software Developer Intern in Fibonalobas",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "12",
             "image": "images/c2.png",
             "title": "SAVITHA THOMAS",
             "description": "Software Developer Intern",
-            "content": "I Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "13",
             "image": "images/c2.png",
             "title": "SIVA KUMAR M N",
             "description": "Software Developer",
-            "content": "Now working in Fibonalabs as FrontEnd ReactJS Developer"
+            "content": "Now working in Fibonalabs as FrontEnd ReactJS Developer",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "14",
             "image": "images/c2.png",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "I Completed B.E(Computer Science Engineering)"
+            "content": "I Completed B.E(Computer Science Engineering)",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "15",
             "image": "images/c2.png",
             "title": "KAVIYARASU",
             "description": "System Admin",
-            "content": "Working in Cloud Platforms."
+            "content": "Working in Cloud Platforms.",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
         },
         {
+            "e_id": "16",
             "image": "images/dp2.png",
             "title": "MANIKANDAN J N",
             "description": "Software Developer Intern",
-            "content": "Doing Software Developer Intern in Fibonalobas"
+            "content": "Doing Software Developer Intern in Fibonalobas",
+            "view_details": "This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager."
        },
 
     ]
